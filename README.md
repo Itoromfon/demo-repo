@@ -1,13 +1,7 @@
-# Demo repo
+# Demo repository
 
-Some Description!
+Some description about my website
 
-##
+## Local Developments
 
-Watch tutorial on youtube.
-
-
-## Local Development
-
-1. Open index.html in your browser
-2. Have Fun
+My coding Enviroment
